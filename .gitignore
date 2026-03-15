@@ -8,4 +8,5 @@ node_modules
 .env.*
 coverage
 *.log
-
+google-cloud-cli-linux-x86_64.tar.gz
+*.tar.gz
